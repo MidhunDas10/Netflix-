@@ -1,3 +1,6 @@
+Goto the following link to view the app
+https://midhundas10.github.io/Netflix-
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
